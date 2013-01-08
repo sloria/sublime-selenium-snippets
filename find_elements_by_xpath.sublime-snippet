@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+${1:self.driver}.find_elements_by_xpath("${2:xpath}")
+]]></content>
+    <tabTrigger>sel:xpaths</tabTrigger>
+    <scope>source.python</scope>
+</snippet>

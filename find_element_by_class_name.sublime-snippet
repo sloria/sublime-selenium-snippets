@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+${1:self.driver}.find_element_by_class_name("${2:class}")
+]]></content>
+    <tabTrigger>sel:class</tabTrigger>
+    <scope>source.python</scope>
+</snippet>

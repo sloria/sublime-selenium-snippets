@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+${1:self.driver}.find_element_by_link_text("${2:link_text}")
+]]></content>
+    <tabTrigger>sel:link</tabTrigger>
+    <scope>source.python</scope>
+</snippet>

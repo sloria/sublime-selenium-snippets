@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+${1:self.driver}.find_elements_by_css_selector("${2:selector}")
+]]></content>
+    <tabTrigger>sel:csss</tabTrigger>
+    <scope>source.python</scope>
+</snippet>

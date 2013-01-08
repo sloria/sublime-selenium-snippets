@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+${1:self.driver}.find_element_by_name("${2:name}")
+]]></content>
+    <tabTrigger>sel:name</tabTrigger>
+    <scope>source.python</scope>
+</snippet>
