@@ -18,5 +18,6 @@ Copy the files to your Packages directory.
 Examples
 --------
 `sel:css` expands to `self.driver.find_element_by_css_selector("selector")`
-`sel:plinks` expands to `self.driver.find_elements_by_partial_link_text("link_text")
+
+`sel:plinks` expands to `self.driver.find_elements_by_partial_link_text("link_text")`
 
