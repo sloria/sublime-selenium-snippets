@@ -7,6 +7,10 @@ Install
 -------
 Copy the files to your Packages directory.
 
+### Package Control
+In the command pallette (Cmd-Shift+P on Mac) type 'Install' then press enter to see a list of packages. Search for 'Selenium
+Snippets' then press enter to install.
+
 ### Mac OS X
     git clone git://github.com/sloria/sublime-selenium-snippets.git ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/Selenium/snippets
 
