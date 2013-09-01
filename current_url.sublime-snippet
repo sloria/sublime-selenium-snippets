@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+${1:self.driver}.current_url()
+]]></content>
+    <tabTrigger>sel:url</tabTrigger>
+    <scope>source.python</scope>
+</snippet>

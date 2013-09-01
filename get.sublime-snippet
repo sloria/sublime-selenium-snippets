@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+${1:self.driver}.get("${2}")
+]]></content>
+    <tabTrigger>sel:get</tabTrigger>
+    <scope>source.python</scope>
+</snippet>
